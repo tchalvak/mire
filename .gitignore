@@ -2,3 +2,5 @@ mire-*.jar
 lib/
 classes/
 target/
+/mire.jar
+*~
