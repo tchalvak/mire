@@ -80,7 +80,7 @@
       (binding [*out* (player-streams inhabitant)]
         (println message)
         (println prompt)))
-    (str "You said " message)))
+    (str "You said \"" message "\"")))
 
 (defn help
   "Show available commands and what they do."
