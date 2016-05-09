@@ -1,0 +1,2 @@
+{:desc "A metal tunnel stretches off east and west."
+ :exits {:east :start :west :goo}}
